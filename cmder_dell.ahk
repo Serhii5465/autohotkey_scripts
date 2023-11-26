@@ -1,2 +1,2 @@
 ﻿^!t::
-Run, D:\system\cygwin_env\cmder\Cmder.exe
+Run, D:\system\applications\cmder\Cmder.exe
